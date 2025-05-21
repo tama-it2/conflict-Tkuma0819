@@ -1,2 +1,2 @@
 # 出原至道
-Magic:The Gathering
+Magic:The Gathering(MTG)
